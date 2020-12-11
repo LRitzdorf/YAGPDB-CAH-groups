@@ -1,3 +1,15 @@
+{{/*
+	This command deletes a group of CAH card packs.
+
+	Usage: `-delgroup "group name"`
+
+	Recommended trigger: `delgroup`
+	Trigger type: Command
+
+	Credits:
+	LRitzdorf <https://github.com/LRitzdorf>
+*/}}
+
 {{ $fullKey := joinStr "" "group " (index .CmdArgs 0) }}
 {{ if ne (len .CmdArgs) 1 }}
     Command usage: `-delgroup "group name"`
