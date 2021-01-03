@@ -1,7 +1,7 @@
 # YAGPDB-CAH-groups
 Make groups of card packs for YAGPDB Cards Against Humanity games!
 
-We're (kind of) official! Find us in the YAGPDB [Custom Commands repository](https://github.com/yagpdb-cc/yagpdb-cc/), under `fun/CAHPackGroups`.
+We're (kind of) official! Find us in the YAGPDB [Custom Commands repository](https://github.com/yagpdb-cc/yagpdb-cc/), under [`fun/CAHPackGroups`](https://github.com/yagpdb-cc/yagpdb-cc/tree/master/fun/CAHPackGroups).
 
 ## Setup
 This repo contains a set of custom commands for use with [Yet Another General Purpose Discord Bot (YAGPDB)](https://yagpdb.xyz).
